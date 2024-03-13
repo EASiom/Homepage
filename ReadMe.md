@@ -10,7 +10,7 @@ I am a passionate programmer and love to explore new technologies. I enjoy build
 
 Here are projects I will be working on:
 
-- Html Testing: [Link to my Html Test Website](https://github.com/project1)
+- Html Testing: [Link to my Html Test Website](https://github.com/EASiom/catHtml)
 - own documentation: [Link to my own (in development) documentation](https://github.com/project2)
 
 ## Blog
